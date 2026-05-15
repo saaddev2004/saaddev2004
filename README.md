@@ -1,5 +1,14 @@
-# 💫 About Me:
-Software Engineer | Full Stack Web & Mobile Developer | AI & ML Integration<br><br>💻 React.js • React Native • Node.js • Express.js • MySQL • MongoDB • Firebase<br>🤖 Scikit-learn • TensorFlow<br>🎓 BS Software Engineering @ UCP<br><br>📫  Let's connect: https://www.linkedin.com/in/m-saad-dev/
+Hi there! 👋 I’m Muhammad Saad, a passionate BS Software Engineering Student at the University of Central Punjab (UCP). I specialize in building smooth mobile apps using Flutter and responsive web interfaces using React.js.Penguin
+
+🎓 Education: BSSE Student @ UCP
+💻 Web Dev: Certified Web Developer from UCP (Secured 2st Position 🥇)
+
+🧠 Key Competencies & Knowledge Base
+Here are the technical concepts and methodologies I work with:
+
+Core Concepts: OOP, DSA (Data Structures & Algorithms), OS Concepts, Linux System Calls.
+Backend & APIs: RESTful APIs, Firebase Auth & Firestore, JSON Parsing.
+Problem Solving: Logic Building, Efficient Code Structure.
 
 
 ## 🌐 Socials:
