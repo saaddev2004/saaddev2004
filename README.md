@@ -164,35 +164,7 @@ Full-Stack Development  →  Backend Architecture  →  AI/ML Engineering  →  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaddev2004&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF" alt="Contribution Activity Graph" width="90%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=saaddev2004&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
-
 </div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/saaddev2004/saaddev2004/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="90%" />
-
-<sub>Generated automatically by a GitHub Action — see setup note below.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💬 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random dev quote" width="60%" />
-
-</div>
-
-<br/>
-
-> **Setup note (snake animation):** the snake graphic above needs one-time setup — create a repo named exactly `saaddev2004` (your profile repo), add the included `snake.yml` to `.github/workflows/`, enable Actions on that repo, and run the workflow once. It then regenerates daily automatically. Full instructions are in the accompanying file.
 
 <br/>
 
