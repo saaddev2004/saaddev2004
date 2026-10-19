@@ -93,6 +93,21 @@ What I care about:
 
 ## Featured Projects
 
+### 🛡️ CodeSentinel AI — AI-Powered Pull Request Review for GitHub
+
+A GitHub App that brings AI-assisted code review directly into the pull request workflow.
+
+- **What it solves:** speeds up and strengthens pull request review by having an AI reviewer analyze changes right where developers already work — on GitHub
+- **Key features:** built as a GitHub App, so it plugs into repositories and reviews pull requests automatically instead of living in a separate tool
+<!-- TODO (Saad): add 2-3 more verified feature bullets, an Architecture bullet, and a Stack bullet in the same style as the projects below, e.g.
+- **Stack:** `...` · `...` · `...`
+-->
+
+[![Repo](https://img.shields.io/badge/Repository-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/saaddev2004/codesentinel-ai)
+![Status](https://img.shields.io/badge/Status-Active-58A6FF?style=flat-square)
+
+<br/>
+
 ### 🛍️ Shop.co — Full-Stack MERN E-Commerce Platform
 
 A complete online store built on MongoDB, Express, React, and Node — covering the full retail flow, not just a product catalog.
@@ -120,20 +135,6 @@ A responsive marketing and membership site for a fitness center, backed by a rea
 [![Repo](https://img.shields.io/badge/Repository-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/saaddev2004/structure-health-and-fitness-bu-react)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://structure-health-and-fitness-bu-rea.vercel.app/)
 ![Status](https://img.shields.io/badge/Status-Active-58A6FF?style=flat-square)
-
-<br/>
-
-### 📱 Vynce — Social Media Platform
-
-A mobile-first social networking application focused on the core loop every social app lives or dies by: profiles, posts, and engagement.
-
-- **What it solves:** a clean, purpose-built space for user profiles, content sharing, and social interaction, built as a mobile application
-- **Key features:** user profiles, a content feed, and social engagement mechanics (likes/comments-style interaction), designed around a modern MERN-style stack
-- **Architecture:** structured as a full-stack app with a dedicated backend API layer, following the same MVC-first discipline used across other projects
-- **Stack:** `React Native` · `Node.js` · `Express` · `MongoDB`
-
-[![Repo](https://img.shields.io/badge/Repository-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/saaddev2004/social-media-platform)
-![Status](https://img.shields.io/badge/Status-In_Development-58A6FF?style=flat-square)
 
 <br/>
 
